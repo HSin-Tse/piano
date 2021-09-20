@@ -7,28 +7,13 @@ module.exports = {
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
+    author: '桃園中路特區 學鋼琴', // for example - 'Ivan Ganev'
+    authorDescription: '聯絡電話:0910290068 何老師', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
-      {
-        icon: `envelope`,
-        url: `mailto:mymail@mail.com`,
-      },
-      {
-        icon: `twitter`,
-        url: `https://twitter.com/ganevru`,
-      },
-      {
-        icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`,
-      },
-      {
-        icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`,
-      },
+
     ],
   },
   plugins: [

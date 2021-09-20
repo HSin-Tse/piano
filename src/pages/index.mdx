@@ -1,35 +1,15 @@
 <AuthorBanner />
 <p>&nbsp;</p>
-<h3>鋼琴&nbsp;&nbsp;
-  <Link to='posts-and-articles'>
-    <Button style={{marginTop: '8px'}}>all posts and articles</Button>
+<h3>一堂課
+  <Link to='/'>
+    <Button style={{marginTop: '8px'}}> 60分鐘 900元</Button>
   </Link>
 </h3>
 
-<FeedItems
-  itemsFormat="compact"
-  filterByTags={['post', 'article']}
-  limit={4}
-/>
 
-<p>&nbsp;</p>
-<h3>Podcasts&nbsp;&nbsp;
-  <Link to='tags/podcast'>
-    <Button style={{marginTop: '8px'}}>all podcasts</Button>
-  </Link>
+
+<h3>師資
+  <h4>台北藝術大學 學士</h4>
+  <h4>台灣藝術大學 碩士</h4>
 </h3>
 
-<FeedItems itemsFormat="compact" filterByTags={['podcast']} limit={3} />
-
-<p>&nbsp;</p>
-
-### Certificates
-
-<FeedItems itemsFormat="compact" filterByTags={['certificate']} />
-
-<p>&nbsp;</p>
-
-### Projects
-
-<FeedItems itemsFormat="compact" filterByTags={['project']} />
-<p>&nbsp;</p>
