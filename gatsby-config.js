@@ -5,8 +5,8 @@ module.exports = {
     siteImage: '/banner.png', // main image of the site for metadata
     siteUrl: 'https://pianomaster.gatsbyjs.io/',//https://chronoblog-profile.now.sh/
     pathPrefix: '/',
-    siteLanguage: 'en',
-    ogLanguage: `en_US`,
+    siteLanguage: 'zh-tw',
+    ogLanguage: `zh-tw`,
     author: '桃園中路特區 學鋼琴', // for example - 'Ivan Ganev'
     authorDescription: '聯絡電話:0910290068 何老師', // short text about the author
     avatar: '/avatar.jpg',
