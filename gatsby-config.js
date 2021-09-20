@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Chronoblog Profile Starter',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteTitle: '桃園中路特區 學鋼琴',
+    siteDescription: '桃園中路特區 學鋼琴',
     siteImage: '/banner.png', // main image of the site for metadata
     siteUrl: 'https://chronoblog-profile.now.sh/',
     pathPrefix: '/',
