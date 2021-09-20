@@ -3,7 +3,7 @@ module.exports = {
     siteTitle: '桃園中路特區 學鋼琴',
     siteDescription: '桃園中路特區 學鋼琴',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog-profile.now.sh/',
+    siteUrl: 'https://pianomaster.gatsbyjs.io/',//https://chronoblog-profile.now.sh/
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
