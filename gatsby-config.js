@@ -8,7 +8,7 @@ module.exports = {
     siteLanguage: 'zh-tw',
     ogLanguage: `zh-tw`,
     author: '桃園中路特區 學鋼琴', // for example - 'Ivan Ganev'
-    authorDescription: '聯絡電話:0910290068 何老師', // short text about the author
+    authorDescription: '聯絡電話:0910290068 何老師!', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
